@@ -14,7 +14,7 @@ requirements = python3,pygame-ce
 orientation = portrait
 
 fullscreen = 0
-
+android.accept_sdk_license = True
 
 [buildozer]
 
